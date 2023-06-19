@@ -1,24 +1,38 @@
-# DividirConquistar_Exercicios_Dupla14
+**DivideAndConquer_Exercicios_Dupla14** 
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: D&C
+Tema:
+ - Divide and Conquer
+
+# DC_Exercicios_Dupla14
+
+**Conteúdo da Disciplina**: Divide and Conquer Algorithm
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
 | 20/2016524  |  Henrique Torres Landin |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 18/0136925  |  Hugo Rocha de Moura |
 
 ## Sobre 
-Resolução de exercícios sobre o tema Dividir e Conquistar.
+Exercicios do leetcode
 
 ## Screenshots
-### Merge k Sorted Lists
+
+### VIDEOS Q1 e Q2
+- Para ter acesso ao vídeo clique [aqui](https://youtu.be/09LLcKiVWQ4)
+### Median of Two Sorted Arrays
+- Exercício do leetcode
+- Dificuldade: HARD
+- Para acessar o exercicio no leetcode clique [aqui](https://leetcode.com/problems/median-of-two-sorted-arrays)
+- Para ter acesso ao código clique [aqui](https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/974711982/)
+![m2sA](https://github.com/projeto-de-algoritmos/DividirConquistar_Exercicios_Dupla14/blob/main/q1.png)
+
+### Merge K Sorted Lists
 - Exercício 23 do leetcode
-- Dificuldade: Hard
-- Para acessar o exercicio no leetcode clique [aqui](https://leetcode.com/problems/merge-k-sorted-lists/)
-- Para ter acesso ao arquivo com o código clique [aqui](https://github.com/projeto-de-algoritmos/DividirConquistar_Exercicios_Dupla14/blob/main/exercicios/MergekSortedLists.py)
-![exercicio1](https://github.com/projeto-de-algoritmos/DividirConquistar_Exercicios_Dupla14/assets/102327244/5f26f8e7-b898-409d-937e-573d24bb8151)
+- Dificuldade: HARD
+- Para acessar o exercicio no leetcode clique [aqui](https://leetcode.com/problems/merge-k-sorted-lists/description/)
+- Para ter acesso ao código clique [aqui](https://leetcode.com/problems/merge-k-sorted-lists/submissions/974750472/)
+![PatchingArray](https://github.com/projeto-de-algoritmos/DividirConquistar_Exercicios_Dupla14/blob/main/q2.png)
 
 
 ### Convert Sorted Array to Binary Search Tree
